@@ -1,0 +1,7 @@
+Flask==1.0.2
+Flask-Cors==3.0.6
+beautifulsoup4==4.6.3
+request==1.0.2
+requests==2.19.1
+Telethon==1.3
+Telethon-sync==1.1.1
