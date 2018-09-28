@@ -22,4 +22,4 @@ def data():
     return recaptcha(urllib.parse.unquote(request.args['audio'])).replace(",", "")
 if __name__ == '__main__':
     app.config['TEMPLATES_AUTO_RELOAD']=True
-    app.run(port=5000,debug=True,use_reloader=True)
+    app.run(port=80,debug=True,use_reloader=True)
