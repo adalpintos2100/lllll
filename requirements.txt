@@ -59,7 +59,7 @@ pywebview==0.5
 query-string==1.0.2
 request==1.0.2
 requests==2.19.1
-rsa==4.0
+rsa==4.1
 scapy==2.4.0
 scapy-http==1.8.2
 selenium==3.14.1
